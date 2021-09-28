@@ -1,0 +1,7 @@
+python -m pip install pandas
+python -m pip install yfinance
+python -m pip install plotly
+python -m pip install plotly.graph_objects
+python -m pip install datetime
+python -m pip install streamlit as st
+python -m pip install pandas_ta as ta
