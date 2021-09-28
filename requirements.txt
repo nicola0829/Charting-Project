@@ -1,7 +1,6 @@
-python -m pip install pandas
-python -m pip install yfinance
-python -m pip install plotly
-python -m pip install plotly.graph_objects
-python -m pip install datetime
-python -m pip install streamlit as st
-python -m pip install pandas_ta as ta
+pandas==1.3.2
+yfinance==0.1.63
+plotly==5.3.1
+datetime==4.3
+streamlit==0.88
+pandas_ta==0.3.14b0
