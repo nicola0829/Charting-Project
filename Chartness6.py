@@ -62,7 +62,7 @@ string_summary = tickerData.info['longBusinessSummary']
 
 #Create table
 fig = go.Figure(data=[go.Table(header=dict(values=['Last Price', 'Percent Change', 'Volume (M)', 'Market Cap ($B)', 'Dividend Yield', 'Forward P/E', 'sss', 'sss']),
-                cells=dict(values=[[last], [333], [vol], [mkt_cap], [div_yld], [fwd_pe], [333], [333]]))
+                cells=dict(values=[[last], ["xxx"], [vol], [mkt_cap], [div_yld], [fwd_pe], ["xxx"], ["xxx"]]))
                     ])
 
 #Create Collapsible box
